@@ -13,7 +13,7 @@ import (
 
 	"github.com/tadvi/systray"
 	"golang.org/x/sys/windows/registry"
-	toast "gopkg.in/toast.v1"
+	toast "github.com/go-toast/toast"
 )
 
 var isWindows10 bool
